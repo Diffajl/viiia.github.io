@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: grey;
+}
+
+#gallery {
+    background-color: grey;
+}
+
+.apalah {
+    background-color: grey;
+}
+
+form .btn:hover {
+    background-color: grey;
+}
+
+#contact {
+    background-color: grey;
+}
+
+@media screen and (max-width: 576px) {
+    .btn {
+        margin-top: 10px;
+    }
+}
+
